@@ -1,0 +1,95 @@
+WASH IT YOURSELF LAUNDRY HUB UPDATE 
+
+- Landing Page [DONE]
+- Function 'Contact Form' 
+- Login Page [DONE]
+- Function 'Authentication' [DONE]
+- Function 'Captcha' [DONE]
+- Register Page [DONE]
+- Function 'Create Account' [DONE]
+- Function 'Captcha' [DONE]
+- Function 'Account Folder Creator' [DONE]
+- Forgot Password Page [DONE]
+- Function 'Email Confirmation' [Done]
+
+- Dashboard Page [DONE]
+- Function 'Get Invoice' [DONE] 
+- Function 'Download QR Code' [DONE]
+- Function 'Pay Now' [DONE]
+- Function 'Reschedule'
+- Function 'Cancel' [DONE]
+- Button 'Book' [Done]
+
+- Schedule Booking Page [DONE]
+- Function 'Service Selection' [DONE]
+- Function 'Appointment Selection' [DONE]
+- Function 'Weighing Option' [DONE]
+- Function 'Personal Info Confirmation' [DONE]
+- Function 'Payment Option' [DONE]
+
+- Account Page [DONE]
+- Function 'Change Display Photo' [DONE]
+- Function 'Edit Account Information' [DONE]
+- Function 'Edit Personal Information' [DONE]
+- Function 'Change Password' 
+- Function 'Logout' [DONE]
+
+- Transaction Page [DONE]
+- Function 'View Complete Transactions' [DONE]
+
+- Schedule Availability Page [DONE]
+- Function 'View Availability' [DONE]
+
+- Employee Page [DONE]
+- Function 'Complete' [DONE]
+- Function 'Remind Payment' [DONE]
+- Function 'Mark as Paid' [DONE]
+- Function 'Refund' [NO FUNCTION]
+- Function 'Reschedule' [NO FUNCTION]
+- Function 'Force Cancel' [DONE]
+
+- Employee Monitor [DONE]
+- Function 'Quick View Daily Sales Report' [DONE]
+- Function 'View Daily Sales Report' [DONE]
+- Function 'Export Daily Sales Report' [NO FUNCTION]
+- Function 'Quick View Monthly Sales Report' [DONE]
+- Function 'View Monthly Sales Report' [DONE]
+- Function 'Export Monthly Sales Report' [NO FUNCTION]
+- Function 'Quick View Annual Sales Report' [DONE]
+- Function 'View Annual Sales Report' [DONE]
+- Function 'Export Annual Sales Report' [NO FUNCTION]
+- Function 'QR Scanner'
+
+- Admin Dashboard Page [DONE]
+- Function 'View Database Server Status' [DONE]
+- Function 'View Hosting Server Status' [DONE]
+- Function 'View Environment' [DONE]
+- Function 'View Version' [DONE]
+- Function 'View Account Count' [DONE]
+- Function 'View Visit Count' [DONE]
+- Function 'View Appointment Count' [DONE]
+- Function 'View Maintenance Status' [DONE]
+
+- Admin Account Manager [DONE]
+- Function 'View All Account' [DONE]
+- Function 'Search Account' [DONE]
+- Function 'View Account As Admin' [DONE]
+- Function 'Block Account' [DONE]
+- Function 'Unblock Account' [DONE]
+- Function 'Force Verify' [DONE]
+- Function 'Set Role'
+
+- Admin Core
+- Function 'File Manager'
+- Function 'Database Manager'
+
+- Settings Page [DONE]
+
+[ To Do ]
+- Re-Format Landing Page 
+- Setup Variable Environment [DONE]
+- Add Super User Account [DONE]
+- Add Favicon
+- Change Navigation Icons [DONE]
+- Add 25 Appointment Max on ScheduleBooking Page
+- DatabaseTool for automation [DONE]
